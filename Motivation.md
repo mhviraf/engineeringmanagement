@@ -1,0 +1,2 @@
+* Most high performing employees are motivated by more than money. They seek the satisfaction of work well done. Coercive management style erodes such pride. 
+* One of the best tools in a manager's toolkit to motivate people is to show them how their work fits into a grand, shared mission. 

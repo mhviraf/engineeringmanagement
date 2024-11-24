@@ -3,18 +3,18 @@
 
 # Template:
 ## Deck
-* Report
-   * 
+* IC
+   * topics to discuss next in priority order 
 * Manager
-   * 
+   * topics to discuss next in priority order
 * Feedback
-   * For manager: what can I do or stop doing to be a better manager?
+   * For manager: what can I do or stop doing to support you better?
    * For IC: what can I do or stop doing to be more effective?
 * Career development
    * Next check in [DATE]
    * [Keep career conversations in a separate doc and link it here]
 * Action Items
-  []
+  [ ] Keep a list of action items here at the top rather than scattered in the log
 
 ## Log
 [DATE]

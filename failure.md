@@ -5,4 +5,4 @@
 
 ## Common failure modes of managers
 * __Spending too much time on underperformers__. Remember that by saying yes to something you are effectively saying no to something else. Spending that time on highperformers typically have a much higher return for the team. 
-* __Being nice over being candid__. Having hard conversations is part of your job. For example withholding critical feedback from an underperforming employee in an attempt to be kind actually does them a disservice. They may only discover these issues later, when it's too late to address them effectively.
+* __Being nice over being candid__. Having hard conversations is part of your job. For instance, withholding critical feedback from an underperforming employee in an attempt to be kind actually does them a disservice. They may only discover these issues later, when it's too late to address them effectively.
