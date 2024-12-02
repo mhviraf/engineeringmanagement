@@ -1,0 +1,1 @@
+* It's human nature to avoid confrontation and most people feel awkward when they have to correct others' actions or behaviors.
