@@ -6,3 +6,5 @@
 ## Common failure modes of managers
 * __Spending too much time on underperformers__. Remember that by saying yes to something you are effectively saying no to something else. Spending that time on highperformers typically have a much higher return for the team. 
 * __Being nice over being candid__. Having hard conversations is part of your job. For instance, withholding critical feedback from an underperforming employee in an attempt to be kind actually does them a disservice. They may only discover these issues later, when it's too late to address them effectively.
+* __Being the messanger__. A quick way to loose credibility with your team is to appear to be a mouthpiece for senior management. You should own the message you are delivering by weaving it into your teams mission. 
+* __Not asking for help from above__. You are not in servitude to your manager, you are in partnership. If a manager avoids asking for help to avoid seeming vulnerable, and doesn't see his manager as a critical support source, he most likely won't see himself as one for his team. 
