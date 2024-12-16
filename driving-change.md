@@ -1,4 +1,5 @@
-Once you have reached a decision to make radical changes, the following people are your best allies in spreading it
+Change initiatives have two stages: conception and implementation. Failure often occures at the second stage.
+Once you have reached a decision to make radical changes, you need change agents to adopt and spread them. The following people are your best candidates
 * early volunteers: seek help from everyone at all levels. you will find likeminded people that are excited sbout the change
 * positive critics: by addressing their concerns you would not only get their buy in but also bullet proof your change idea. Don't confuse positive critics with inveterate naysayers though. 
 * people with informal power: every organizarion has individuals whose power and influence exeeds far betond their formal authority and whose help and advice are highly sought after by people all around them
