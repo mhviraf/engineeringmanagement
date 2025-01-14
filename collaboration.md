@@ -1,2 +1,0 @@
-* Identify key peer teams and build relationships with them and nurture those relationships over time. 
-* Realize that different teams and stakeholders want to be involved with your work differently. Some just want to be informed, some want to be consulted, and others want to be the decision maker.
