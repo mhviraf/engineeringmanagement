@@ -1,0 +1,20 @@
+- many problems in delivering software come from unclear boundaries between teams and their responsibilities.
+- Good design should allow teams to evolve as independently as possible. 
+- When optimizing for fast flow, teams should be responsible for a single domain which is a challenge when domains are hidden in monolithic systems. 
+- Hidden monoliths and coupling
+        * application monolith: a single large application with many dependencies and responsibilities that possibly exposes many services and user journeys.
+        * joined-at-the-database monolith: several services all coupled to the same database, making it difficult to change, test, and deploy separately. 
+        * monolithic builds: gigantic continuous integration (CI) build.
+        * monolithic releases: smaller components bundled together into a release. 
+        * monolithic thinking (standardization): one size fits all thinking for teams in order to minimize variation that simplifies management oversight of engineering teams but comes at a high premium, harming teams ability to choose the right tool for the job and reduces their motivation. 
+- software boundaries (fracture planes)
+       * The word monolith comes from greek, meaning “single stone”. Traditional stonemasons hit stones at particular angles to split the rocks in clean segments, taking advantage of their natural fracture planes.
+       * fracture plane: business domain bounded context. 
+             - most of the fracture planes should map to business domain bounded bounded context. 
+             - identifying bounded context requires a fair amount of business knowledge and technical expertise, so it’s normal to make mistakes. It shouldn’t deter you from adapting and improving as you understand your context better, even if that involves some kind of recurring “cost” of service redesign.
+       * fracture plane: regulatory compliance. In certain industries like healthcare and finance splitting along the regulatory compliance fracture plane simplifies auditing and compliance, and reduces the blast radius of regulatory oversight.
+       * fracture plane: change cadence. With a monolith, every piece moves at the speed of the slowest part. For example, if new reporting features are only released quarterly, it’s very hard to release other types of features more frequently as the codebase is in flux and not ready for production. 
+       * fracture plane: location. Working across different time zones aggravates communication delays and introduces bottlenecks for example when code reviews or manual approvals are required. 
+       * fracture plane: performance isolation. Although performance should always be a top priority for every system, different parts of a system may have different performance requirements. For example, part of the tax system handling tax submission on the last day requires a different level of availability and reliability than the part that handles tax simulation. 
+       * fracture plane: technology. It is one of the most common types of boundary used. For example having separate trams for backend and frontend.
+- litmus test: could we, effectively consume or provide this subsystem as a service? 
