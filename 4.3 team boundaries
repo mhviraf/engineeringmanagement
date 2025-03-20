@@ -18,3 +18,4 @@
        * fracture plane: performance isolation. Although performance should always be a top priority for every system, different parts of a system may have different performance requirements. For example, part of the tax system handling tax submission on the last day requires a different level of availability and reliability than the part that handles tax simulation. 
        * fracture plane: technology. It is one of the most common types of boundary used. For example having separate trams for backend and frontend.
 - litmus test: could we, effectively consume or provide this subsystem as a service? 
+- Team topologies should adapt and evolve over time to meet emerging challenges. It's inevitable. 
