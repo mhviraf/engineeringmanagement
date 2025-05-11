@@ -1,6 +1,2 @@
 # engineeringmanagement
-Chapters:
-1. management fundamentals
-2. manager
-3. team
-4. organization (team of teams)
+This repository is a collection of insights I've gathered from books, conversations with mentors, and experience since becoming a manager in 2023.
